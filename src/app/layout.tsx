@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Learnit_SMC",
-  description: "New Curriculum School Management System",
+  description: "Learnit School Management System",
 };
 
 export default function RootLayout({
