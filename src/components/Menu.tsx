@@ -62,7 +62,7 @@ const menuItems = [
       },
       {
         icon: "/result.png",
-        label: "Results",
+        label: "Progressive Results",
         href: "/list/results",
         visible: ["admin", "teacher", "student", "parent"],
       },
